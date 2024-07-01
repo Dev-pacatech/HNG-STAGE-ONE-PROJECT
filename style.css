@@ -28,7 +28,7 @@ li {
 }
 
 li::before {
-    content: "✔"; /* Custom icon for list items */
+    content: "✔"; 
     position: absolute;
     left: 0;
     top: 0;
@@ -52,7 +52,7 @@ li:hover {
 .links a {
     display: inline-block;
     padding: 10px 15px;
-    background-color: #5a626b;
+    background-color: #a9b4c0;
     color: #fff;
     border-radius: 5px;
     text-align: center;
@@ -61,10 +61,10 @@ li:hover {
 }
 a{
     text-decoration: none;
-    color: #333;
+    color: #b7b4b4;
 }
 a:hover{
-    color:#007bff;
+    color:#869cb3;
 }
 img{
     max-width: 100%;
@@ -104,7 +104,7 @@ main{
 button {
     padding: 10px 20px;
     background-color: #5a626b;
-    color: #fff;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -138,7 +138,7 @@ footer{
     }
 
     .profile {
-        margin-bottom: 1rem;
+        margin: 1rem 0;
     }
 
     .usefulLinks .button-container {
