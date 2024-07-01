@@ -130,11 +130,11 @@ footer{
 
     h1 {
         margin: 0.2rem 0;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     h2{
         margin: 0.1rem 0;
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     .profile {
@@ -147,8 +147,8 @@ footer{
     }
 
     button {
-        width: 105%; /* Make buttons full width on smaller screens */
-        max-width: 300px; /* Set a max width for the buttons */
+        width: 105%; 
+        max-width: 300px; 
         margin: 5px 0;
     }
 }
