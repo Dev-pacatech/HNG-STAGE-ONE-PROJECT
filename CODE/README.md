@@ -27,3 +27,6 @@
 ✔ Learn More, Learn More     
 ✔ Build Projects, Build Projects     
 
+C:\Users\emmyc\OneDrive\Desktop\HNG\HNG-STAGE-1-PROJECT\My Tech Goal for (2024 - 2026).png
+
+
