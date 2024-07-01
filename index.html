@@ -10,10 +10,10 @@
     <header>
         <h1>My Tech Goals For (2024 - 2026)</h1>
         <div class="profile">
-            <img src="./src/profile-picture.png" width="90px" height="90px" alt="My profile picture">
+            <img src="./src/profile-picture.png" width="90px" height="90px" alt="My profile picture" data-testid="slackProfilePicture">
             <div>
-                <p> <strong>Slack Name:</strong> PACATECH</p>
-                <p> <strong>Slack Email: </strong> emmycloxzy07@gmail.com</p>
+                <p> <strong>Slack Name:</strong> <span data-testid="slackDisplayName">PACATECH</span></p>
+                <p> <strong>Slack Email: </strong><span data-testid="slackEmail"> emmycloxzy07@gmail.com</span></p>
             </div>
         </div>
        
@@ -40,9 +40,9 @@
         <section class="usefilLinks">
             <h2>Useful Links</h2>
             <div class="buttom-container">
-            <button><a href="https://hng.tech/learn">hng.tech</a></button>
-            <button><a href="https://keyword.dog/">keyword</a></button>
-            <button><a href="https://scrapeanyweb.site/">scrapeanyweb</a></button>
+            <button><a data-testid="hngLink" href="https://hng.tech/learn">hng.tech</a></button>
+            <button><a data-testid="keywordLink" href="https://keyword.dog/">keyword</a></button>
+            <button><a data-testid="scrapeanywebLink" href="https://scrapeanyweb.site/">scrapeanyweb</a></button>
             </div>
             
         </section>
