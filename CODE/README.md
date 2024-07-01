@@ -1,16 +1,16 @@
 # HNG stage 1 Project
 # Steps:
-Plan my Goal
-Set up html structure
-Style the CSS
-Add JavaScript
-Ensure it responsive
-Check image dimension
-Add data-testId attributes
-Test functionality
-Host the website
-Review
-submit
+✔ Plan my Goal     
+✔ Set up html structure     
+✔ Style the CSS     
+✔ Add JavaScript     
+✔ Ensure it responsive     
+✔ Check image dimension     
+✔ Add data-testId attributes     
+✔ Test functionality     
+✔ Host the website     
+✔ Review     
+✔ submit     
 
 # My Goals:
 Become proficient in frontend development (html,css,javascript)     
