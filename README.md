@@ -30,3 +30,13 @@
 
 # Figma Design
 ![My Tech Goal for (2024 - 2026)](https://github.com/Dev-pacatech/HNG-STAGE-1-PROJECT/assets/161334307/ba2de853-b98d-4109-9be7-d4a9eef4d81f)
+
+# mobile view
+
+https://github.com/Dev-pacatech/HNG-STAGE-1-PROJECT/assets/161334307/67eed458-710f-472f-9722-1c9bf24f2ad8
+
+
+# Desktop view
+![Screenshot 2024-07-01 170216](https://github.com/Dev-pacatech/HNG-STAGE-1-PROJECT/assets/161334307/0d8a58dd-6707-4277-b52d-aaca2f5bdde1)
+
+
